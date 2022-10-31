@@ -2,6 +2,8 @@ body {
     text-align: center;
     font-weight: bold;
     background-image: url(./crucero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
